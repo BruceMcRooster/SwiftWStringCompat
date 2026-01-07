@@ -1,0 +1,5 @@
+module WCharUtils {
+    header "WCharUtils.hpp"
+    requires cplusplus
+    export *
+}
